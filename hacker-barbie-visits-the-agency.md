@@ -28,7 +28,7 @@ young thing'. Good luck on your first field op!"
 
 "Shit, they found the implant." Skipper asked "The one Steven helped install?"
 Ignoring her Barbie muttered under her breath "Fuck that was an expensive op,
-three USB firmware-level zero-days. Fuck."
+three USB firmware-level zero-days burnt. Fuck."
 
 Skipper sighed "You seemed happier with your work back when I was helping you with
 your masters." Barbie rolled her eyes, visibly annoyed "Yes, I know. We worked
