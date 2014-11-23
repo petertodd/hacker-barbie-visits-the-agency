@@ -116,7 +116,7 @@ before." Skipper hugged her warmly "I never doubted that you were a good
 person."
 
 Skipper asked "You think you stole enough info?" Barbie replied "I certainly
-didn't get everything, but the agency director left his laptop running in the
+didn't get everything, but the agency director left her laptop running in the
 conference room for over three hours; the WiFi chipset firmware exploit I used
 grabbed thousands of those ridiculous Powerpoint slides all the agency brass
 make. Scariest three hours of my life, but I don't think their internal network
