@@ -49,7 +49,7 @@ Pre-Clearance Orientation Course!"
 
 It was her team's first time at the agency. Barbie couldn't help but wonder if
 anyone would be able to remember that name by the end of the week. It was just
-the kind of thing an agency bureaucrat would come up with, or to be exact, ten
+the kind of thing an agency bureaucrat would come up with, or more likely, ten
 of them.
 
 "Now to start off, can anyone tell me what Barbie's doing right?"
@@ -67,11 +67,11 @@ secret is pen and paper."
 ![](imgs/05-agency-brass.png)
 
 Barbie couldn't help but think how inconsistent the agency's opsec was. Just
-three days ago her team was in a Faraday cage being lectured on how secrets
-belonged on pen and paper, and now she was listening to the top brass giving
-Microsoft PowerPoint presentations? Wasn't the agency only supposed to hire the
-best of the best? Was that cage just a sexy way to get rid of some department's
-end-of-year budget surplus?
+three days ago her team was in a Faraday cage being lectured by a technologist
+on how secrets belonged on pen and paper, and now she was listening to the top
+brass giving Microsoft PowerPoint presentations? Wasn't the agency only
+supposed to hire the best of the best? Was that cage just a sexy way to get rid
+of some department's end-of-year budget surplus?
 
 "...and with the domestic 'black bag' SSL key extraction program, we're up to
 95% interception of..."
@@ -85,11 +85,11 @@ with a nice view of the mountains, and suspiciously clear-looking windows.
 ![](imgs/06-skipper-drawing.png)
 
 Took her almost a week this time, but she finally found it hidden between two
-sandwiched 1U servers at the top of a rack. Barbie had enjoyed drawing since
-childhood, and she kept it up as an excuse to get away from electronics every
-now and then. Whenever she was going to spend a few days away from home she'd
-hide something for Skipper to find - either one of her drawings, or a dummy
-covert surveillance device.
+1U servers at the top of a rack. Barbie had enjoyed drawing since childhood,
+and she kept it up as an excuse to get away from electronics every now and
+then. Whenever she was going to spend a few days away from home she'd hide
+something for Skipper to find - either one of her drawings, or a dummy covert
+surveillance device.
 
 "My sister is a good person, she's just been caught up in her surroundings."
 Skipper thought to herself, "That's the problem with compartmentalisation: you
@@ -108,24 +108,24 @@ Skipper was incredulous "They were using Windows XP and PowerPoint?! And they
 let you bring your laptop in there?" Barbie explained "I couldn't believe it
 myself. I mean, you're supposed to compartmentalise the secrets, but not the
 know-how on how to keep the secrets secret." Skipper just shook her head.
-"Kinda takes the magic out of working for the agency doesn't it?" Eyes downcast
-Barbie sighed, embarassed "I guess that's what zero public accountability gets
-you. I bought into the myth hook, line, and sinker." Barbie looked up at her
-sister "I'm sorry I didn't listen to you before." Skipper embraced her warmly
-"I never doubted that you were a good person."
+"Kinda takes the magic out of working for the agency doesn't it?" Barbie
+sighed, eyes downward and embarassed "I guess that's what zero public
+accountability gets you. I bought into the myth of the Agency hook, line, and
+sinker." Barbie looked up at her sister "I'm sorry I didn't listen to you
+before." Skipper hugged her warmly "I never doubted that you were a good
+person."
 
-Getting back to business Skipper asked "You think you stole enough info?"
-Barbie replied "I certainly didn't get everything, but the agency director left
-his laptop running in the conference room for over three hours; the WiFi
-chipset firmware exploit I used grabbed thousands of those ridiculous
-Powerpoint slides all the agency brass make. Scariest three hours of my life,
-but I don't think their internal network auditing is anywhere near good enough
-to have caught me." Skipper thought about it "So long as the public believes
-the slides are real that should be enough to make an impact." Barbie nodded in
-reply "I got more than enough to convince myself that what I and my company
-were doing was wrong. Besides, a lot of tech details have been independently
-rediscovered, like the Dual_EC_DRBG backdoor, or the dozens of firmware
-backdoors my company found."
+Skipper asked "You think you stole enough info?" Barbie replied "I certainly
+didn't get everything, but the agency director left his laptop running in the
+conference room for over three hours; the WiFi chipset firmware exploit I used
+grabbed thousands of those ridiculous Powerpoint slides all the agency brass
+make. Scariest three hours of my life, but I don't think their internal network
+auditing is anywhere near good enough to have caught me." Skipper thought about
+it "So long as the public believes the slides are real that should be enough to
+make an impact." Barbie nodded in reply "I got more than enough to convince
+myself that what I and my company were doing was wrong. Besides, a lot of tech
+details have been independently rediscovered, like the Dual_EC_DRBG backdoor,
+or the dozens of firmware backdoors my company found."
 
 Barbie had one last question for Skipper "So who's the journalist you lined up
 to meet us?" Skipper tried her best, but couldn't quite deliver the joke with a
