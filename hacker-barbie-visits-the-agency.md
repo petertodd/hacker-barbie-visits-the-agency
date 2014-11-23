@@ -52,7 +52,7 @@ anyone would be able to remember that name by the end of the week. It was just
 the kind of thing an Agency bureaucrat would come up with, or more likely, ten
 of them.
 
-"Now to start off, can anyone tell me what Barbie's doing right?"
+"Now to start off, can anyone tell me what Barbie's doing right that the rest of you aren't?"
 
 Kicking himself for not thinking of it before class, Steven shot up his hand.
 "She left all her non-approved electronic devices outside the Faraday cage?"
