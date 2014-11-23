@@ -32,7 +32,7 @@ three USB firmware-level zero-days burnt. Fuck."
 
 Skipper sighed "You seemed happier with your work back when I was helping you with
 your masters." Barbie rolled her eyes, visibly annoyed "Yes, I know how much you liked
-our Tor hardware router project..." Skipper finished her sentence "and then
+our Tor hardware router project..." Skipper finished her sentence for her "...and then
 you graduated and somehow started an offensive cyberwarfare consulting firm."
 It wasn't the first time they'd had this conversation. "You're my sister and
 I'll always love you, but this is about ethics in..."
