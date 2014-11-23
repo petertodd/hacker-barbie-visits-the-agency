@@ -131,10 +131,9 @@ independently rediscovered, like the Dual_EC_DRBG backdoor, or the dozens of
 firmware backdoors your company found. We just need to convince people to
 believe the evidence they already have."
 
-Barbie had one last question for Skipper "So who's the journalist you lined up
-to meet us?" Skipper tried her best, but couldn't quite deliver the joke with a
-straight face "A certain Alison Bechdel." Barbie laughed "You pick the most
-hilarious codenames."
+"So who's the journalist you lined up to meet us?" Skipper tried her best, but
+couldn't quite deliver the joke with a straight face "A certain Alison
+Bechdel." Barbie laughed "You pick the most hilarious codenames."
 
 "Hey, one last pillow fight?"
 
