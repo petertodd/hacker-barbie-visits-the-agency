@@ -120,7 +120,7 @@ The agency director left her laptop running in the
 conference room for over three hours; the WiFi chipset firmware exploit I used
 grabbed thousands of those ridiculous Powerpoint slides all the agency brass
 make. Scariest three hours of my life, but I don't think their internal network
-auditing is anywhere near good enough to have caught me."
+auditing is anywhere near good enough to have caught me. So that's all I have, no real tech details."
 
 Skipper thought about it for a moment "So long as the public believes the
 slides are real I think we'll make an genuine impact."
