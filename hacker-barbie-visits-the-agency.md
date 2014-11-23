@@ -95,9 +95,9 @@ surveillance device.
 Skipper thought to herself, "That's the problem with compartmentalisation: you
 don't see the broader impact on society of the work you're doing."
 
-Just then a message popped up on her Pond client: "Hey sis, a client canceled
-their contract so I've got two weeks off right after I get back. Wanna do
-Nepal?"
+Just then a message popped up on her Pond client: "hey sis, a client canceled
+their contract so I've got two weeks off right after I get back. wanna do
+nepal?"
 
 
 <hr>
