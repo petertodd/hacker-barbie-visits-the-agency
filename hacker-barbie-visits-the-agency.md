@@ -132,7 +132,7 @@ to meet us?" Skipper tried her best, but couldn't quite deliver the joke with a
 straight face "A certain Alison Bechdel." Barbie laughed "You pick the most
 hilarious codenames."
 
-"Hey, one last pillowfight?"
+"Hey, one last pillow fight?"
 
 
 <hr>
