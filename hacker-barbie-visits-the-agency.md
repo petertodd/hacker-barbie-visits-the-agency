@@ -30,7 +30,7 @@ young thing'. Good luck on your first field op!"
 Ignoring her Barbie muttered under her breath "Fuck that was an expensive op,
 three USB firmware-level zero-days. Fuck."
 
-Skipper sighed "You seemed happier before, back when I was helping you with
+Skipper sighed "You seemed happier with your work back when I was helping you with
 your masters." Barbie rolled her eyes, visibly annoyed "Yes, I know. We worked
 on that Tor hardware router project..." Skipper finished her sentence "and then
 you graduated and somehow started an offensive cyberwarfare consulting firm."
