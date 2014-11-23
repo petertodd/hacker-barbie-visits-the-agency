@@ -119,7 +119,7 @@ person."
 
 "You think you stole enough info?" Barbie replied "I don't know.
 The Agency director left her laptop running in the
-conference room for over three hours; the WiFi chipset firmware exploit I used
+conference room; the WiFi chipset firmware exploit I used
 grabbed thousands of those ridiculous Powerpoint slides all the Agency brass
 make. Scariest three hours of my life, though I don't think their internal network
 auditing is anywhere near good enough to have caught me. But that's all I have, no real tech details."
