@@ -15,7 +15,7 @@ expectations.
 ![](imgs/02-black-bag.png)
 
 "...and while he's distracted by Alpha team's 'pretty young thing', Bravo team
-implants the servers." Barbie nodded in agreement, then teased "Glad you
+implants the servers." Barbie nodded in agreement, then teased "Are you glad you
 listened when I told you to ask the Agency to check their databases and find out what porn he liked rather than just assuming things?" Steven laughed, a bit
 sheepishly. "It's a solid plan. And you know, I'm really
 impressed by how professional you've been about volunteering to be the 'pretty
