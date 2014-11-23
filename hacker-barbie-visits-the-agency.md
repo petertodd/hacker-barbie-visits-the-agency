@@ -26,7 +26,7 @@ young thing'. I know it's your first field op, but you're going to be fine."
 
 ![](imgs/03-kitchen.png)
 
-"Shit, they found the implant." Skipper asked "The one Steven helped install?"
+"Shit, they found the implant already." Skipper asked "The one from last week?"
 Ignoring her Barbie muttered under her breath "Fuck that was an expensive op,
 three USB firmware-level zero-days burnt. Fuck."
 
