@@ -54,11 +54,11 @@ of them.
 
 "Now to start off, can anyone tell me what Barbie's doing right that the rest of you aren't?"
 
-Kicking himself for not thinking of it before class, Steven shot up his hand.
+Kicking himself for not actually reading the notice on the door, Steven shot up his hand.
 "She left all her non-approved electronic devices outside the Faraday cage?"
 
-"Good answer, and yes that was your first test. Never
-forget that in this day and age the only thing you can really trust with a
+"Good answer, and yes that was your first test. In the future read the signs, and
+remember in this day and age the only thing you can really trust with a
 secret is pen and paper."
 
 
