@@ -47,8 +47,10 @@ Barbie cut her off: "My Uber is here. Can we talk about this when I'm back from 
 "Welcome to the Agency Infosecurity/National-Cyberassets Contractor
 Pre-Clearance Orientation Course!"
 
-It was the first time her team had visited the Agency in the flesh. Barbie couldn't help but wonder if
-anyone would be able to remember that name by the end of the week. It was just
+It was the first time her team had visited the Agency in the flesh. Barbie was
+genuinely looking forward to meeting the director, but still couldn't help but
+wonder if
+anyone would be able to remember that silly name by the end of the week. It was just
 the kind of thing an Agency bureaucrat would come up with, or more likely, ten
 of them.
 
