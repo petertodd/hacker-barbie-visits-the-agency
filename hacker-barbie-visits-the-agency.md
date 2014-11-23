@@ -37,7 +37,7 @@ you graduated and somehow started an offensive cyberwarfare consulting firm."
 It wasn't the first time they'd had this conversation. "I'm your sister and
 will always love you, but this is about ethics in..."
 
-Barbie cut her off: "My Uber is here. Can we do this when I'm back from Utah?"
+Barbie cut her off: "My Uber is here. Can we talk about this when I'm back from Utah?"
 
 
 <hr>
