@@ -8,7 +8,7 @@ with whether or not it's possible to remote root an OpenBSD box with no ports
 open", making a mental note to talk her PR firm about combating unrealistic
 expectations.
 
-![](imgs/01-remote-root.jpg)
+![](imgs/01-remote-root.png)
 
 
 <hr>
@@ -20,7 +20,7 @@ than a bit sheepishly. Barbie smiled, "It's a solid plan, and you know, I'm
 really impressed by how professional you've been about volunteering to be the
 'pretty young thing'. Good luck on your first field op!"
 
-![](imgs/02-black-bag.jpg)
+![](imgs/02-black-bag.png)
 
 
 <hr>
@@ -38,7 +38,7 @@ I'll always love you, but this is about ethics in..."
 
 Barbie cut her off: "My Uber's here. Can we do this when I'm back from Utah?"
 
-![](imgs/03-kitchen.jpg)
+![](imgs/03-kitchen.png)
 
 
 <hr>
@@ -60,7 +60,7 @@ The instructor smiled "Good answer, and yes that was your first test. Never
 forget that in this day and age the only thing you can really trust with a
 secret is pen and paper."
 
-![](imgs/04-agency-orientation.jpg)
+![](imgs/04-agency-orientation.png)
 
 
 <hr>
@@ -79,7 +79,7 @@ It was stuff that could could fill front page news for months if it ever got to
 a journalist. Yet agency bureaucrats were entrusting it to Windows XP in a room
 with a nice view of the mountains, and suspiciously clear-looking windows.
 
-![](imgs/05-agency-brass.jpg)
+![](imgs/05-agency-brass.png)
 
 
 <hr>
@@ -99,7 +99,7 @@ Just then a message popped up on her Pond client: "Hey sis, a client canceled
 their contract so I've got two weeks off right after I get back. Wanna do
 Nepal?"
 
-![](imgs/06-skipper-drawing.jpg)
+![](imgs/06-skipper-drawing.png)
 
 
 <hr>
@@ -134,7 +134,7 @@ hilarious codenames."
 
 "Hey, one last pillowfight?"
 
-![](imgs/07-plots-and-pillowfights.jpg)
+![](imgs/07-plots-and-pillowfights.png)
 
 
 <hr>
