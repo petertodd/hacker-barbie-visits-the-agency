@@ -15,10 +15,10 @@ expectations.
 
 "...and while he's distracted by Alpha team's 'pretty young thing', Bravo team
 implants the servers." Barbie nodded in agreement, then teased "Glad you
-listened when I said to check what porn sites he liked?" Steven laughed, more
-than a bit sheepishly. Barbie smiled, "It's a solid plan, and you know, I'm
-really impressed by how professional you've been about volunteering to be the
-'pretty young thing'. Good luck on your first field op!"
+listened when I said to check what porn sites he liked?" Steven laughed, a bit
+sheepishly. Barbie smiled, "It's a solid plan. And you know, I'm really
+impressed by how professional you've been about volunteering to be the 'pretty
+young thing'. Good luck on your first field op!"
 
 ![](imgs/02-black-bag.png)
 
@@ -33,10 +33,10 @@ Skipper sighed "You seemed happier before, back when I was helping you with
 your masters." Barbie rolled her eyes, visibly annoyed "Yes, I know. We worked
 on that Tor hardware router project..." Skipper finished her sentence "and then
 you graduated and somehow started an offensive cyberwarfare consulting firm."
-This wasn't the first time they'd had this conversation. "I'm your sister and
-I'll always love you, but this is about ethics in..."
+It wasn't the first time they'd had this conversation. "I'm your sister and
+will always love you, but this is about ethics in..."
 
-Barbie cut her off: "My Uber's here. Can we do this when I'm back from Utah?"
+Barbie cut her off: "My Uber is here. Can we do this when I'm back from Utah?"
 
 ![](imgs/03-kitchen.png)
 
@@ -46,10 +46,10 @@ Barbie cut her off: "My Uber's here. Can we do this when I'm back from Utah?"
 "Welcome to the Agency Infosecurity/National-Cyberassets Contractor
 Pre-Clearance Orientation Course!"
 
-Her team's first time at the agency, and already Barbie couldn't help but
-wonder if anyone would be able to remember that name by the end of the week. It
-was just the kind of thing an agency bureaucrat would come up with, or to be
-exact, ten of them.
+It was her team's first time at the agency. Barbie couldn't help but wonder if
+anyone would be able to remember that name by the end of the week. It was just
+the kind of thing an agency bureaucrat would come up with, or to be exact, ten
+of them.
 
 "Now to start off, can anyone tell me what Barbie's doing right?"
 
