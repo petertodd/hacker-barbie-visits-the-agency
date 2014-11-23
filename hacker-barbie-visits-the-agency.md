@@ -16,7 +16,7 @@ expectations.
 
 "...and while he's distracted by Alpha team's 'pretty young thing', Bravo team
 implants the servers." Barbie nodded in agreement, then teased "Glad you
-listened when I told you to ask the agency to check their databases and find out what porn he liked rather than just assuming things?" Steven laughed, a bit
+listened when I told you to ask the Agency to check their databases and find out what porn he liked rather than just assuming things?" Steven laughed, a bit
 sheepishly. "It's a solid plan. And you know, I'm really
 impressed by how professional you've been about volunteering to be the 'pretty
 young thing'. Good luck on your first field op!"
@@ -47,9 +47,9 @@ Barbie cut her off: "My Uber is here. Can we talk about this when I'm back from 
 "Welcome to the Agency Infosecurity/National-Cyberassets Contractor
 Pre-Clearance Orientation Course!"
 
-It was the first time her team had visited the agency in the flesh. Barbie couldn't help but wonder if
+It was the first time her team had visited the Agency in the flesh. Barbie couldn't help but wonder if
 anyone would be able to remember that name by the end of the week. It was just
-the kind of thing an agency bureaucrat would come up with, or more likely, ten
+the kind of thing an Agency bureaucrat would come up with, or more likely, ten
 of them.
 
 "Now to start off, can anyone tell me what Barbie's doing right?"
@@ -66,10 +66,10 @@ secret is pen and paper."
 
 ![](imgs/05-agency-brass.png)
 
-Barbie couldn't help but think how inconsistent the agency's opsec was. Just
+Barbie couldn't help but think how inconsistent the Agency's OPSEC was. Just
 three days ago her team was in a Faraday cage being lectured by a technologist
 on how secrets belonged on pen and paper, and now she was listening to the top
-brass giving Microsoft PowerPoint presentations? Wasn't the agency only
+brass giving Microsoft PowerPoint presentations? Wasn't the Agency only
 supposed to hire the best of the best? Was that cage just a sexy way to get rid
 of some department's end-of-year budget surplus?
 
@@ -77,7 +77,7 @@ of some department's end-of-year budget surplus?
 95% interception of..."
 
 It was stuff that could could fill front page news for months if it ever got to
-a journalist. Yet agency bureaucrats were entrusting it to Windows XP in a room
+a journalist. Yet Agency bureaucrats were entrusting it to Windows XP in a room
 with a nice view of the mountains, and suspiciously clear-looking windows.
 
 
@@ -108,7 +108,7 @@ Skipper was incredulous "They were using Windows XP and PowerPoint?! And they
 let you bring your laptop in there?" Barbie explained "I couldn't believe it
 myself. I mean, you're supposed to compartmentalise the secrets, but not the
 know-how on how to keep the secrets secret." Skipper just shook her head.
-"Kinda takes the magic out of working for the agency doesn't it?" Barbie
+"Kinda takes the magic out of working for the Agency doesn't it?" Barbie
 sighed, eyes downward and embarassed "I guess that's what zero public
 accountability gets you. I bought into the myth of the Agency hook, line, and
 sinker." Barbie looked up at her sister "I'm sorry I didn't listen to you
@@ -116,9 +116,9 @@ before." Skipper hugged her warmly "I never doubted that you were a good
 person."
 
 "You think you stole enough info?" Barbie replied "I don't know.
-The agency director left her laptop running in the
+The Agency director left her laptop running in the
 conference room for over three hours; the WiFi chipset firmware exploit I used
-grabbed thousands of those ridiculous Powerpoint slides all the agency brass
+grabbed thousands of those ridiculous Powerpoint slides all the Agency brass
 make. Scariest three hours of my life, but I don't think their internal network
 auditing is anywhere near good enough to have caught me. So that's all I have, no real tech details."
 
