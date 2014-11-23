@@ -34,8 +34,8 @@ Skipper sighed "You seemed happier with your work back when I was helping you wi
 your masters." Barbie rolled her eyes, visibly annoyed "Yes, I know. We worked
 on that Tor hardware router project..." Skipper finished her sentence "and then
 you graduated and somehow started an offensive cyberwarfare consulting firm."
-It wasn't the first time they'd had this conversation. "I'm your sister and
-will always love you, but this is about ethics in..."
+It wasn't the first time they'd had this conversation. "You're my sister and
+I'll always love you, but this is about ethics in..."
 
 Barbie cut her off: "My Uber is here. Can we talk about this when I'm back from Utah?"
 
