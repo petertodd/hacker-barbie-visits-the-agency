@@ -55,7 +55,7 @@ of them.
 "Now to start off, can anyone tell me what Barbie's doing right?"
 
 Kicking himself for not thinking of it before class, Steven shot up his hand.
-"She left all her electronic devices outside the Faraday cage?"
+"She left all her non-approved electronic devices outside the Faraday cage?"
 
 The instructor smiled "Good answer, and yes that was your first test. Never
 forget that in this day and age the only thing you can really trust with a
