@@ -1,3 +1,6 @@
+<h1>Hacker Barbie Visits the Agency</h1>
+
+
 "We're just going to have to black bag them" Barbie said, frustrated by her
 lack of progress on the contract. Dismayed, her client Brian pleaded "But
 you're the hacking goddess!" Barbie replied flatly "My gender has nothing to do
@@ -5,7 +8,10 @@ with whether or not it's possible to remote root an OpenBSD box with no ports
 open", making a mental note to talk her PR firm about combating unrealistic
 expectations.
 
+![](imgs/01-remote-root.jpg)
 
+
+<hr>
 
 "...and while he's distracted by Alpha team's 'pretty young thing', Bravo team
 implants the servers." Barbie nodded in agreement, then teased "Glad you
@@ -14,7 +20,10 @@ than a bit sheepishly. Barbie smiled, "It's a solid plan, and you know, I'm
 really impressed by how professional you've been about volunteering to be the
 'pretty young thing'. Good luck on your first field op!"
 
+![](imgs/02-black-bag.jpg)
 
+
+<hr>
 
 "Shit, they found the implant." Skipper asked "The one Steven helped with?"
 Ignoring her Barbie muttered under her breath "Fuck that was an expensive op,
@@ -29,6 +38,10 @@ I'll always love you, but this is about ethics in..."
 
 Barbie cut her off: "My Uber's here. Can we do this when I'm back from Utah?"
 
+![](imgs/03-kitchen.jpg)
+
+
+<hr>
 
 "Welcome to the Agency Infosecurity/National-Cyberassets Contractor
 Pre-Clearance Orientation Course!"
@@ -47,7 +60,10 @@ The instructor smiled "Good answer, and yes that was your first test. Never
 forget that in this day and age the only thing you can really trust with a
 secret is pen and paper."
 
+![](imgs/04-agency-orientation.jpg)
 
+
+<hr>
 
 Barbie couldn't help but think how inconsistent the agency's opsec was. Just
 three days ago her team was in a Faraday cage being lectured on how secrets
@@ -63,6 +79,10 @@ It was stuff that could could fill front page news for months if it ever got to
 a journalist. Yet agency bureaucrats were entrusting it to Windows XP in a room
 with a nice view of the mountains, and suspiciously clear-looking windows.
 
+![](imgs/05-agency-brass.jpg)
+
+
+<hr>
 
 Took her almost a week this time, but she finally found it hidden between two
 sandwiched 1U servers at the top of a rack. Barbie had enjoyed drawing since
@@ -79,7 +99,10 @@ Just then a message popped up on her Pond client: "Hey sis, a client canceled
 their contract so I've got two weeks off right after I get back. Wanna do
 Nepal?"
 
+![](imgs/06-skipper-drawing.jpg)
 
+
+<hr>
 
 Skipper was incredulous "They were using Windows XP and PowerPoint?! And they
 let you bring your laptop in there?" Barbie explained "I couldn't believe it
@@ -110,3 +133,9 @@ straight face "A certain Alison Bechdel." Barbie laughed "You pick the most
 hilarious codenames."
 
 "Hey, one last pillowfight?"
+
+![](imgs/07-plots-and-pillowfights.jpg)
+
+
+<hr>
+<small>© 2014 Peter Todd, <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></small>
