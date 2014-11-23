@@ -122,8 +122,8 @@ grabbed thousands of those ridiculous Powerpoint slides all the Agency brass
 make. Scariest three hours of my life, though I don't think their internal network
 auditing is anywhere near good enough to have caught me. But that's all I have, no real tech details."
 
-Skipper thought about it for a moment "So long as the public believes the
-slides are real I think we'll make an genuine impact."
+Skipper thought about it "So long as the public believes the slides are real I
+think we'll make an genuine impact."
 
 Barbie nodded "They were enough to convince me that what my company and I were
 doing was wrong." Skipper added "Exactly. And a lot of tech details have been
