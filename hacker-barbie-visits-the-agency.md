@@ -18,7 +18,7 @@ expectations.
 implants the servers." Barbie nodded in agreement, then teased "Are you glad you
 listened when I told you to ask the Agency to check their databases and find out what porn he liked rather than just assuming things?" Steven laughed, a bit
 sheepishly. "It's a solid plan. And you know, I'm really
-impressed by how professional you've been about volunteering to be the 'pretty
+impressed by how professional you've been about your role as the 'pretty
 young thing'. Good luck on your first field op!"
 
 
