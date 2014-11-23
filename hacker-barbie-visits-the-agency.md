@@ -123,7 +123,7 @@ make. Scariest three hours of my life, though I don't think their internal netwo
 auditing is anywhere near good enough to have caught me. But that's all I have, no real tech details."
 
 Skipper thought about it "So long as the public believes the slides are real I
-think we'll make an genuine impact."
+think we'll make a genuine impact."
 
 Barbie nodded "They were enough to convince me that what my company and I were
 doing was wrong." Skipper added "Exactly. And a lot of tech details have been
