@@ -115,17 +115,17 @@ sinker." Barbie looked up at her sister "I'm sorry I didn't listen to you
 before." Skipper hugged her warmly "I never doubted that you were a good
 person."
 
-"You think you stole enough info?" Barbie replied "I certainly
-didn't get everything, but the agency director left her laptop running in the
+"You think you stole enough info?" Barbie replied "I don't know.
+The agency director left her laptop running in the
 conference room for over three hours; the WiFi chipset firmware exploit I used
 grabbed thousands of those ridiculous Powerpoint slides all the agency brass
 make. Scariest three hours of my life, but I don't think their internal network
 auditing is anywhere near good enough to have caught me." Skipper thought about
-it "So long as the public believes the slides are real that should be enough to
-make an impact." Barbie nodded in reply "I got more than enough to convince
-myself that what I and my company were doing was wrong. Besides, a lot of tech
+it "So long as the public believes the slides are real I think we'll make an genuine impact."
+Barbie nodded "The slides were enough to convince
+me that what my company and I were doing was wrong." Skipper added "A lot of tech
 details have been independently rediscovered, like the Dual_EC_DRBG backdoor,
-or the dozens of firmware backdoors my company found."
+or the dozens of firmware backdoors your company found. We just need the slides to make people believe the evidence we already have."
 
 Barbie had one last question for Skipper "So who's the journalist you lined up
 to meet us?" Skipper tried her best, but couldn't quite deliver the joke with a
