@@ -17,7 +17,7 @@ expectations.
 "...and while he's distracted by Alpha team's 'pretty young thing', Bravo team
 implants the servers." Barbie nodded in agreement, then teased "Glad you
 listened when I told you to ask the agency to check their databases and find out what porn sites he liked?" Steven laughed, a bit
-sheepishly. Barbie smiled, "It's a solid plan. And you know, I'm really
+sheepishly. "It's a solid plan. And you know, I'm really
 impressed by how professional you've been about volunteering to be the 'pretty
 young thing'. Good luck on your first field op!"
 
