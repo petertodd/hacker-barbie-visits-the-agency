@@ -115,7 +115,7 @@ it to any ethernet cables." She had a touch of anger in her voice "You're
 supposed to compartmentalise the secrets, not the know-how on how to keep the
 secrets secret." Skipper shook her head. "Kinda takes the magic out of working
 for them doesn't it?" Barbie sighed, eyes downward and embarassed "I guess
-that's what zero public accountability gets you. I bought into the myth of the
+that's what zero transparency gets you. I bought into the myth of the
 all-knowing Agency hook, line, and sinker. They're just regular people." She
 looked up at her sister "I'm sorry I didn't listen to you before." Skipper
 hugged her warmly "I never doubted that you were a good person."
