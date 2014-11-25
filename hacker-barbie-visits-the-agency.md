@@ -14,7 +14,7 @@ expectations.
 
 ![](imgs/02-black-bag.png)
 
-"...and while he's distracted by Alpha team's 'pretty young thing', Bravo team
+"—and while he's distracted by Alpha team's 'pretty young thing', Bravo team
 implants the servers." Barbie nodded in agreement, then teased "Are you glad you
 listened when I told you to ask the Agency to check their databases and find out what porn he liked rather than just assuming things?" Steven laughed, a bit
 sheepishly. "It's a solid plan. And you know, I'm really
@@ -32,12 +32,12 @@ Fuck."
 
 Skipper sighed "You seemed happier with your work back when I was helping you
 with your masters." Barbie rolled her eyes, visibly annoyed "Yes, I know how
-much you liked our Tor hardware router project..." Skipper finished her
-sentence for her "...and then you graduated and somehow started an offensive
+much you liked our Tor hardware router project—" Skipper finished her
+sentence for her "—and then you graduated and somehow started an offensive
 cyberwarfare consulting firm." "A <i>hardware security</i> consulting firm —
 cyberwarfare stuff is the only clients I could find." It wasn't the first time
 they'd had this conversation. "You're my sister and I'll always love you, but
-this is about ethics in..."
+this is about ethics in—"
 
 Barbie cut her off: "My Uber is here. Can we talk about this when I'm back from Utah?"
 
