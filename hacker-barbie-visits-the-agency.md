@@ -140,8 +140,8 @@ exploits targets, even crazy stuff like that Dual EC PRNG backdoor, or the
 elliptic curve constants. But what the public cares about is who those targets
 are."
 
-"The reports prove that everyone is a target." Barbie said it with a
-touch of regret. Skipper let it sink in "Feels different doesn't it?"
+"The reports prove that everyone is a target." Barbie said it with regret.
+Skipper let it sink in "Feels different doesn't it?"
 
 They spent a few quiet minutes together. Finally Barbie asked "So who's the
 journalist you lined up to meet us over there?" Skipper tried, but couldn't
