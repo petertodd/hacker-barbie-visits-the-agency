@@ -75,8 +75,8 @@ on pen and paper, yet now she was listening to the top brass giving Microsoft
 PowerPoint presentations on laptops running Windows XP. How did they get so
 complacent?
 
-"...and with the domestic 'black bag' SSL key extraction program, we're up to
-95% interception of..."
+"—and with the domestic 'black bag' SSL key extraction program, we're up to
+95% interception of—"
 
 The director was just wrapping up her presentation; Barbie reminded herself to
 ask her what supplier the purchasing department bought her cute-looking pink
