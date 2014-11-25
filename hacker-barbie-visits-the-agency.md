@@ -133,17 +133,18 @@ removed the WiFi card!", Barbie exclaimed, still frustrated, "I got most of her
 subordinates but it's all bureaucratic reports, not tech details. Think that's
 enough?"
 
-Skipper thought about it "How the Agency exploits targets is being
-rediscovered, like the Dual_EC_DRBG backdoor, or all the firmware backdoors
-your company discovered."
+Skipper thought about it "The tech community is figuring out how Agency
+exploits targets, even the crazy stuff like the Dual_EC_DRBG backdoor, or the
+P-NNNr curve constants. But what the public cares about is who those targets
+are."
 
-"But those reports prove that everyone is a target." Barbie said it with a
+"The reports prove that everyone is a target." Barbie said it with a
 touch of regret. Skipper let it sink in "Feels different doesn't it?"
 
-They spent a few quiet minutes before Barbie asked "So who's the journalist you
-lined up to meet us over there?" Skipper tried, but couldn't quite deliver the
-joke with a straight face "You'd know them from The Guardian, a certain Bechdel
-T." Barbie laughed "Your codenames are the best!"
+They spent a few quiet minutes together. Finally Barbie asked "So who's the
+journalist you lined up to meet us over there?" Skipper tried, but couldn't
+quite deliver the joke with a straight face "You'd know them from The Guardian,
+a certain Bechdel T." Barbie laughed "Your codenames are the best!"
 
 "Hey, one last pillow fight?"
 
