@@ -26,9 +26,9 @@ young thing'. I know it's your first field op, but you're going to be fine."
 
 ![](imgs/03-kitchen.png)
 
-"Shit, they found the implant already." Skipper asked "The one from last week?"
-Ignoring her Barbie muttered under her breath "Fuck that was an expensive op,
-three USB firmware-level zero-days burnt. Fuck."
+"Shit, they found the implant." Skipper asked "The one from last week?" Barbie
+ignored her "Fuck that was an expensive op, three USB firmware zero-days burnt.
+Fuck."
 
 Skipper sighed "You seemed happier with your work back when I was helping you with
 your masters." Barbie rolled her eyes, visibly annoyed "Yes, I know how much you liked
@@ -54,14 +54,15 @@ anyone would be able to remember that silly name by the end of the week. It was 
 the kind of thing an Agency bureaucrat would come up with, or more likely, ten
 of them.
 
-"Now to start off, can anyone tell me what Barbie's doing right that the rest of you aren't?"
+"Can anyone tell me what Barbie's doing right that the rest of you aren't?"
 
-Kicking himself for not actually reading the notice on the door, Steven shot up his hand.
-"She left all her non-approved electronic devices outside the Faraday cage?"
+Steven suddenly noticed the mesh on the windows. "She left all her non-approved
+electronic devices outside the Faraday cage?"
 
-"Good answer, and yes that was your first test. In the future read the signs, and
-remember in cyberwarfare the only thing you can really trust with a
-secret is pen and paper."
+"Good answer! The Faraday cage only protects against threats outside this room,
+not inside. Barbie's got the right idea: in cyberwarfare the only thing you can
+really trust with a secret is hardware you've audited yourself, like pen and
+paper."
 
 
 <hr>
@@ -69,18 +70,17 @@ secret is pen and paper."
 ![](imgs/05-agency-brass.png)
 
 Barbie couldn't help but think how inconsistent the Agency's OPSEC was. Just
-three days ago her team was in a Faraday cage being lectured by a technologist
-on how secrets belonged on pen and paper, and now she was listening to the top
-brass giving Microsoft PowerPoint presentations? Wasn't the Agency only
-supposed to hire the best of the best? Was that cage just a sexy way to get rid
-of some department's end-of-year budget surplus?
+three days ago her team was in a Faraday cage being praised for keeping secrets
+on pen and paper, yet now she was listening to the top brass giving Microsoft
+PowerPoint presentations on laptops running Windows XP. How did they get so
+complacent?
 
 "...and with the domestic 'black bag' SSL key extraction program, we're up to
 95% interception of..."
 
-It was stuff that could could fill front page news for months if it ever got to
-a journalist. Yet Agency bureaucrats were entrusting it to Windows XP in a room
-with a nice view of the mountains, and suspiciously clear-looking windows.
+The director was just wrapping up her presentation; Barbie reminded herself to
+ask her what supplier the purchasing department bought her cute-looking pink
+laptop from.
 
 
 <hr>
@@ -108,35 +108,42 @@ nepal?"
 
 Skipper was incredulous "They were using Windows XP and PowerPoint?! And they
 let you bring your laptop in there?" Barbie explained "I couldn't believe it
-myself. I mean, you're supposed to compartmentalise the secrets, but not the
-know-how on how to keep the secrets secret." Skipper just shook her head.
-"Kinda takes the magic out of working for the Agency doesn't it?" Barbie
-sighed, eyes downward and embarassed "I guess that's what zero public
-accountability gets you. I bought into the myth of the Agency hook, line, and
-sinker." Barbie looked up at her sister "I'm sorry I didn't listen to you
-before." Skipper hugged her warmly "I never doubted that you were a good
-person."
+when the director said even I could bring mine in so long as I didn't connect
+it to any ethernet cables." She had a touch of anger in her voice "You're
+supposed to compartmentalise the secrets, not the know-how on how to keep the
+secrets secret." Skipper shook her head. "Kinda takes the magic out of working
+for them doesn't it?" Barbie sighed, eyes downward and embarassed "I guess
+that's what zero public accountability gets you. I bought into the myth of the
+all-knowing Agency hook, line, and sinker. They're just regular people." She
+looked up at her sister "I'm sorry I didn't listen to you before." Skipper
+hugged her warmly "I never doubted that you were a good person."
 
-"You think you stole enough info?" Barbie replied "I don't know.
-The Agency director left her laptop running in the
-conference room; the WiFi chipset firmware exploit I used
-grabbed thousands of those ridiculous Powerpoint slides all the Agency brass
-make. Scariest three hours of my life, though I don't think their internal network
-auditing is anywhere near good enough to have caught me. But that's all I have, no real tech details."
+Skipper finally asked the big question "You think you stole enough info to go
+public?" Barbie replied "I got thousands of Powerpoint slides off the personal
+laptops in the audience—"
 
-Skipper thought about it "So long as the public believes the slides are real I
-think we'll make a genuine impact."
+Amazed Skipper interrupted her "During your presentation on WiFi chipset
+exploits?!" Barbie beamed "Ironic right? The director was really nice to me
+after, she said I looked so nervous—"
 
-Barbie nodded "They were enough to convince me that what my company and I were
-doing was wrong." Skipper added "Exactly. And a lot of tech details have been
-independently rediscovered, like the Dual_EC_DRBG backdoor, or the dozens of
-firmware backdoors your company found. We just need to convince people to
-believe the evidence they already have."
+"Because you were busy rooting her laptop right in front of her!"
 
-"So who's the journalist you lined up to meet us over there?" Skipper tried her
-best, but couldn't quite deliver the joke with a straight face "You'd know them
-from The Guardian, a certain Bechdel T." Barbie laughed "Your codenames are the
-best."
+"No! She tried to make me feel better by telling me how she'd read my paper and
+removed the WiFi card!", Barbie exclaimed, still frustrated, "I got most of her
+subordinates but it's all bureaucratic reports, not tech details. Think that's
+enough?"
+
+Skipper thought about it "How the Agency exploits targets is being
+rediscovered, like the Dual_EC_DRBG backdoor, or all the firmware backdoors
+your company discovered."
+
+"But those reports prove that everyone is a target." Barbie said it with a
+touch of regret. Skipper let it sink in "Feels different doesn't it?"
+
+They spent a few quiet minutes before Barbie asked "So who's the journalist you
+lined up to meet us over there?" Skipper tried, but couldn't quite deliver the
+joke with a straight face "You'd know them from The Guardian, a certain Bechdel
+T." Barbie laughed "Your codenames are the best!"
 
 "Hey, one last pillow fight?"
 
