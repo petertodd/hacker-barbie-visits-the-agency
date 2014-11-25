@@ -135,7 +135,7 @@ removed the WiFi card!", Barbie exclaimed, still frustrated, "I got most of her
 subordinates but it's all bureaucratic reports, not tech details. Think that's
 enough?"
 
-Skipper thought about it "The tech community is figuring out how Agency
+Skipper thought about it "The tech community is figuring out how the Agency
 exploits targets, even crazy stuff like that Dual EC PRNG backdoor, or the
 elliptic curve constants. But what the public cares about is who those targets
 are."
