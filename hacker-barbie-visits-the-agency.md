@@ -134,8 +134,9 @@ subordinates but it's all bureaucratic reports, not tech details. Think that's
 enough?"
 
 Skipper thought about it "The tech community is figuring out how Agency
-exploits targets, even crazy stuff like Dual EC backdoor, or the ECC curve
-constants. But what the public cares about is who those targets are."
+exploits targets, even crazy stuff like that Dual EC PRNG backdoor, or the
+elliptic curve constants. But what the public cares about is who those targets
+are."
 
 "The reports prove that everyone is a target." Barbie said it with a
 touch of regret. Skipper let it sink in "Feels different doesn't it?"
