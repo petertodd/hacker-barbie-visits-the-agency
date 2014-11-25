@@ -110,7 +110,7 @@ nepal?"
 
 Skipper was incredulous "They were using Windows XP and PowerPoint?! And they
 let you bring your laptop in there?" Barbie explained "The director said purchasing lets them buy their own
-because getting EMSEC approval for a new model takes three years! She even said I
+because getting EMSEC approval for a new model takes three years. She even said I
 could bring mine in so long as I didn't connect
 it to any ethernet cables!" She had a touch of anger in her voice "You're
 supposed to compartmentalise the secrets, not the know-how on how to keep the
