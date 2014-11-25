@@ -1,4 +1,4 @@
-<h1>Hacker Barbie Visits the Agency</h1>
+<h1>Hacker Barbie Visits The Agency</h1>
 
 ![](imgs/01-remote-root.png)
 
