@@ -80,9 +80,9 @@ complacent?
 "—and with the domestic 'black bag' SSL key extraction program, we're up to
 95% interception of—"
 
-The director was just wrapping up her presentation; Barbie reminded herself to
-ask her what supplier the purchasing department bought her cute pink
-laptop from.
+The director was just wrapping up her presentation. Barbie reminded herself to
+ask her where the purchasing department found a certified supplier for that
+cute pink laptop.
 
 
 <hr>
@@ -109,9 +109,10 @@ nepal?"
 ![](imgs/07-plots-and-pillowfights.png)
 
 Skipper was incredulous "They were using Windows XP and PowerPoint?! And they
-let you bring your laptop in there?" Barbie explained "I couldn't believe it
-when the director said even I could bring mine in so long as I didn't connect
-it to any ethernet cables." She had a touch of anger in her voice "You're
+let you bring your laptop in there?" Barbie explained "The director said purchasing lets them buy their own
+because getting EMSEC approval for a new model takes three years! She even said I
+could bring mine in so long as I didn't connect
+it to any ethernet cables!" She had a touch of anger in her voice "You're
 supposed to compartmentalise the secrets, not the know-how on how to keep the
 secrets secret." Skipper shook her head. "Kinda takes the magic out of working
 for them doesn't it?" Barbie sighed, eyes downward and embarassed "I guess
