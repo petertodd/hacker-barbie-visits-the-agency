@@ -39,7 +39,7 @@ cyberwarfare stuff is the only clients I could find." It wasn't the first time
 they'd had this conversation. "You're my sister and I'll always love you, but
 this is about ethics in—"
 
-Barbie cut her off: "My Uber is here. Can we talk about this when I'm back from Utah?"
+Barbie cut her off "My Uber is here. Can we talk about this when I'm back from Utah?"
 
 
 <hr>
