@@ -30,12 +30,14 @@ young thing'. I know it's your first field op, but you're going to be fine."
 ignored her "Fuck that was an expensive op, three USB firmware zero-days burnt.
 Fuck."
 
-Skipper sighed "You seemed happier with your work back when I was helping you with
-your masters." Barbie rolled her eyes, visibly annoyed "Yes, I know how much you liked
-our Tor hardware router project..." Skipper finished her sentence for her "...and then
-you graduated and somehow started an offensive cyberwarfare consulting firm."
-It wasn't the first time they'd had this conversation. "You're my sister and
-I'll always love you, but this is about ethics in..."
+Skipper sighed "You seemed happier with your work back when I was helping you
+with your masters." Barbie rolled her eyes, visibly annoyed "Yes, I know how
+much you liked our Tor hardware router project..." Skipper finished her
+sentence for her "...and then you graduated and somehow started an offensive
+cyberwarfare consulting firm." "A <i>hardware security</i> consulting firm —
+cyberwarfare stuff is the only clients I could find." It wasn't the first time
+they'd had this conversation. "You're my sister and I'll always love you, but
+this is about ethics in..."
 
 Barbie cut her off: "My Uber is here. Can we talk about this when I'm back from Utah?"
 
