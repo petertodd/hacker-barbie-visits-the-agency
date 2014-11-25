@@ -2,7 +2,7 @@
 
 ![](imgs/01-remote-root.png)
 
-"We're just going to have to black bag them." Barbie said, frustrated by her
+"We're just going to have to black bag them." Barbie was frustrated by the
 lack of progress on the contract. Dismayed, her client Brian pleaded "But
 you're the hacking goddess!" Barbie replied flatly "My gender has nothing to do
 with whether or not it's possible to remote root an OpenBSD box with no ports
