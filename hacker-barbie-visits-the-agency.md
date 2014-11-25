@@ -121,7 +121,7 @@ all-knowing Agency hook, line, and sinker. They're just regular people." She
 looked up at her sister "I'm sorry I didn't listen to you before." Skipper
 hugged her warmly "I never doubted that you were a good person."
 
-Skipper finally asked the big question "You think you stole enough info to go
+Skipper finally asked the big question "Think you stole enough info to go
 public?" Barbie replied "I got thousands of Powerpoint slides off the personal
 laptops in the audience—"
 
