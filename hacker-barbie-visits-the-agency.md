@@ -81,7 +81,7 @@ complacent?
 95% interception of—"
 
 The director was just wrapping up her presentation; Barbie reminded herself to
-ask her what supplier the purchasing department bought her cute-looking pink
+ask her what supplier the purchasing department bought her cute pink
 laptop from.
 
 
