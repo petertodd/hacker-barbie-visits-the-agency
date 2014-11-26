@@ -153,4 +153,4 @@ a certain Bechdel T." Barbie laughed "Your codenames are the best!"
 
 
 <hr>
-<small>© 2014 Peter Todd, <a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></small>
+<small><a href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></small>
